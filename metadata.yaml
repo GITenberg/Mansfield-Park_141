@@ -1,5 +1,8 @@
 _repo: Mansfield-Park_141
-_version: 0.1.1
+_version: 0.2.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Austen, Jane
@@ -14,6 +17,8 @@ description: "Mansfield Park is the third novel by Jane Austen, written at Chawt
   \ and Pride and Prejudice. When the novel reached a second edition in 1816, its\
   \ publication was taken over by John Murray, who also published its successor, Emma.\n\
   \ From Wikipedia (CC BY-SA)."
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/141#Mansfield-Park
 gutenberg_issued: '1994-06-01'
 gutenberg_type: Text
 identifiers:
